@@ -2,3 +2,15 @@ site_name: "IHC - Moovit (Grupo 7)"
 site_url: https://github.com/th-org/24.2-moovit-ihc
 theme:
   name: "material"
+
+nav:
+  - Home: index.md
+  - Heurísticas de Nielsen: heuristica.md
+  - Cronograma: cronograma.md
+  - Territórios:
+    - Território 1: territorio1.md
+    - Território 2: territorio2.md
+    - Território 3: territorio3.md
+    - Território 4: territorio4.md
+    - Território 5: territorio5.md
+    - Território 6: territorio6.md
