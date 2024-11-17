@@ -2,6 +2,33 @@ site_name: "IHC - Moovit (Grupo 7)"
 site_url: https://github.com/th-org/24.2-moovit-ihc
 theme:
   name: "material"
+  font:
+    text: Open Sans
+  features:
+    - navigation.tabs
+    - content.code.copy
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+  palette:
+    - scheme: default  # Modo claro
+      primary: 'dark blue'
+      accent: 'light blue'
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate  # Modo escuro
+      primary: 'blue grey'
+      accent: 'cyan'
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: high-contrast  # Modo de alto contraste
+      primary: 'black'
+      accent: 'yellow'
+      toggle:
+        icon: material/weather-cloudy-alert
+        name: Switch to high contrast  
 
 nav:
   - Home: index.md
