@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 ## Introdução
 
 Para aprimorar a experiência do usuário no Moovit Web, nosso grupo identificou quatro heurísticas de Nielsen que precisam de correções e definiu estratégias para abordá-las.
