@@ -1,6 +1,10 @@
+---
+hide:
+  - navigation
+---
 # Formulário de Avaliação do Moovit Web
 
-O Grupo 07 desenvolveu um **questionário de avaliação da usabilidade e experiência do usuário do Moovit Web** como parte do projeto da disciplina de Interação Humano Computador da Universidade de Brasília (FCTE-UnB). Este formulário foi fundamentado nas **Heurísticas de Nielsen**, selecionadas para orientar a análise de aspectos-chave da interface e da interação do aplicativo, buscando identificar pontos de melhoria com base nas experiências dos usuários.
+O formulário foi desenvolvido pelos membros [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) e revisado pelos demais integrantes do Grupo 7. Nesse formulário temos um **questionário de avaliação da usabilidade e experiência do usuário do Moovit Web** como parte do projeto da disciplina de Interação Humano Computador da Universidade de Brasília (FCTE-UnB). Este formulário foi fundamentado nas **Heurísticas de Nielsen**, selecionadas para orientar a análise de aspectos-chave da interface e da interação do aplicativo, buscando identificar pontos de melhoria com base nas experiências dos usuários.
 
 ## Estrutura e Critérios Avaliados
 
