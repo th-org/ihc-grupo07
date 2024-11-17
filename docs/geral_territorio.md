@@ -1,1 +1,3 @@
-asdgahsgdjbdshdaskjbd
+
+
+Cada território aborda um tema específico, funcionando como um guia para explorar conhecimentos importantes de forma focada e prática e, neste documento, apresentamos como cada conhecimento explorado nos territórios foi aplicado dentro do nosso aplicativo escolhido. Aqui, você encontrará uma visão detalhada de como os conceitos foram implementados, ilustrando sua utilidade no desenvolvimento das funcionalidades e na construção de uma experiência enriquecedora para os usuários.
