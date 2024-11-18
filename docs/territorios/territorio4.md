@@ -13,7 +13,7 @@ O Território 4 introduz a análise de dados em Interação Humano-Computador (I
 
 #### Ferramentas de Análise:
 - **Excel**: Usaremos o Excel para tabular os dados coletados e realizar análises preliminares, como cálculo da média, desvio padrão e criação de gráficos que ajudem a visualizar as tendências dos dados.
-- **R e RStudio**: O R será utilizado para análises mais avançadas. Através do RStudio, será possível importar facilmente os dados do Excel e aplicar funções estatísticas para calcular a confiabilidade dos dados e a similaridade entre variáveis. O R tem uma vasta comunidade e bibliotecas que podem ser exploradas para análises mais complexas.
+- **Python**: O Python será utilizado para análises mais avançadas. Será possível importar facilmente os dados do Excel e aplicar funções estatísticas para calcular a confiabilidade dos dados e a similaridade entre variáveis. O Python tem uma vasta comunidade e bibliotecas que podem ser exploradas para análises mais complexas.
 
 #### Métodos Estatísticos:
 - **Confiabilidade**: Utilizaremos o **Alpha de Cronbach** para medir a confiabilidade interna dos questionários. Este índice nos permitirá verificar se as perguntas relacionadas a uma mesma variável estão consistentes, ou seja, se os dados obtidos são confiáveis.
