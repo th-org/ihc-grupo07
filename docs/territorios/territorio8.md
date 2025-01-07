@@ -1,89 +1,43 @@
-# Território 8 - Abordagens Teóricas de IHC
+# Aplicação do Território 8.1 - Abordagens Teóricas de IHC
 
-## Leis de Hick-Hyman e Fitts
+No Território 8.1, aplicamos abordagens teóricas de interação humano-computador para otimizar a usabilidade e eficiência do Moovit. As leis de Hick-Hyman, Fitts e os Princípios de Gestalt serão incorporados no design do aplicativo para melhorar a interação do usuário.
 
-### Lei de Hick-Hyman
-- Relaciona o **tempo de decisão** ao número de escolhas disponíveis.
-- Fórmulas:
-  - Para opções com igual probabilidade: 
-    - \( T = k \cdot \log_2(N+1) \)
-  - Para opções com probabilidades diferentes (\(p_i\) = probabilidade da alternativa \(i\)): 
-    - \( T = k \cdot p_i \cdot \log_2(1 + 1/p_i) \)
-- **Constante**: \(k = 150ms\)
-- Exemplos:
-  - Em listas ordenadas alfabeticamente, é mais rápido encontrar itens.
+## Lei de Hick-Hyman
 
-### Lei de Fitts
-- Relaciona o **tempo de apontar** (\(T\)) ao tamanho (\(S\)) do alvo e à distância (\(D\)) até ele.
-- Fórmula: \( T = k \cdot \log_2(D/S + 0.5) \)
-- **Constante**: \(k = 100ms\)
+A Lei de Hick-Hyman afirma que o tempo necessário para uma pessoa tomar uma decisão depende do número de opções disponíveis. Quanto mais opções, mais tempo leva para escolher.
 
----
+**Aplicação no Moovit:**
 
-## Princípios de Gestalt
-1. **Proximidade**: Entidades visuais próximas são percebidas como um grupo.
-2. **Boa continuidade**: Traços contínuos são percebidos mais prontamente que mudanças abruptas.
-3. **Simetria**: Objetos simétricos são mais fáceis de perceber.
-4. **Similaridade**: Objetos semelhantes são agrupados.
-5. **Destino comum**: Objetos com o mesmo movimento são percebidos como um grupo.
-6. **Fecho**: A mente tende a completar contornos para formar figuras regulares.
+- **Redução de opções**: O Moovit pode reduzir o número de opções mostradas ao usuário, agrupando informações semelhantes e priorizando as mais relevantes.
+- **Organização em ordem alfabética**: Quando houver muitas opções de rotas ou paradas, elas serão organizadas em ordem alfabética para facilitar a localização rápida.
+- **Sugestões personalizadas**: Para reduzir a sobrecarga de opções, o Moovit poderá apresentar sugestões de rotas frequentes ou recentes, de acordo com o histórico do usuário.
 
----
+## Lei de Fitts
 
-## Engenharia Cognitiva
-### Mundo Psicológico vs. Mundo Físico
-- **Problemas de mapeamento**:
-  - Exemplo: Controle de água quente/fria em torneiras.
-- **Dificuldade de controle**:
-  - Exemplo: Ajustar temperatura mantendo o fluxo constante.
-- **Dificuldade de avaliação**:
-  - Exemplo: Avaliar a temperatura da água em torneiras separadas.
+A Lei de Fitts descreve como o tempo necessário para apontar para um alvo está relacionado ao tamanho do alvo e à distância até ele.
 
-### Modelos da Engenharia Cognitiva
-- **Teoria da Ação e Golfos**:
-  - Variáveis psicológicas (objetivos e intenções) vs. controles físicos.
-  - Processo: **Objetivo → Intenção → Ação → Percepção → Interpretação → Avaliação**.
+**Aplicação no Moovit:**
 
----
+- **Botões grandes e de fácil alcance**: Aumentar o tamanho de botões e controles essenciais, como "Buscar rota" ou "Iniciar navegação", para reduzir o tempo de interação.
+- **Posicionamento estratégico**: Colocar botões e áreas de interação próximas ao alcance mais natural, reduzindo a distância necessária para apontar.
+- **Destaque de áreas ativas**: Quando o usuário estiver em uma área ativa (como uma lista de rotas ou paradas), elementos de ação terão tamanho e distância otimizados para facilitar a interação.
+
+Essas melhorias no design do Moovit garantirão uma experiência mais rápida, intuitiva e agradável para os usuários.
+
+# Aplicação do Território 8.3 - Teoria da Atividade / Cognição Distribuída / Engenharia Semiótica
 
 ## Teoria da Atividade
-- Características básicas:
-  1. Direcionada a um objeto (material ou ideal).
-  2. Mediada por artefatos.
-  3. Socialmente constituída em uma cultura.
-- Foco:
-  - Design considerando práticas de trabalho, divisões de tarefas e ambientes multiusuário.
-  - Participação ativa do usuário no design.
 
----
+**Personalização das Rotas**: Permitir que os usuários personalizem as rotas de transporte, considerando suas preferências, como evitar longas caminhadas ou selecionar o meio de transporte mais conveniente.
 
 ## Cognição Distribuída
-- Considera interações entre pessoas, recursos e materiais no ambiente.
-- Elementos-chave:
-  1. Descrição do contexto da atividade.
-  2. Identificação de entradas, saídas e representações disponíveis.
-  3. Transformações durante a resolução de problemas.
 
----
+**Mapeamento de Fluxos de Trabalho**: Identificar e mapear os fluxos de trabalho do usuário para proporcionar atalhos e recursos intuitivos que otimizem a experiência de navegação no aplicativo.
+
+**Integração de Dados Locais em Tempo Real**: Integrar informações em tempo real, como condições climáticas ou eventos que impactam o transporte, para otimizar as recomendações de rotas.
 
 ## Engenharia Semiótica
-- Caracteriza a interação como um caso de **comunicação humana mediada por sistemas computacionais**.
-- **Foco**:
-  - Comunicação entre designers, usuários e sistemas.
-  - Comunicação direta (usuário-sistema) e metacomunicação (designer-usuário).
-- **Espaço de Design**:
-  1. Quem é o emissor? (Designer)
-  2. Quem é o receptor? (Usuário)
-  3. Qual é o contexto da comunicação? 
-  4. Qual é o código da comunicação? 
-  5. Qual é o canal?
-  6. Qual é a mensagem?
 
----
+**Representações Universais**: Utilizar ícones e cores universais para garantir que a interface do usuário seja compreendida por pessoas de diferentes culturas e línguas.
 
-## Abordagens Etnometodológicas
-- Destacam as influências entre contexto físico e sociocultural no uso de sistemas.
-- Principais iniciativas:
-  1. **Ações situadas** (Suchman) vs. **Ações planejadas** (Norman).
-  2. Análise de conversações entre pessoas.
-  3. Estudos de campo (trabalho, casa, mobilidade).
+**Acessibilidade para Deficiência Visual ou Cognitiva**: Garantir que o Moovit seja acessível para pessoas com deficiências visuais ou cognitivas, utilizando tecnologias assistivas e designs inclusivos.
