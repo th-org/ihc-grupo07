@@ -34,3 +34,24 @@ O modelo **Explorar e Navegar** envolve a interação do usuário com o sistema 
 - **Reestruturar o menu de navegação** para facilitar a **descoberta de rotas** e **funcionalidades adicionais** (como ver horários detalhados, escolher modos de transporte alternativos, etc.).
 - Implementar **elementos interativos** para incentivar o usuário a explorar mais opções de transporte e verificar alternativas que ele não havia considerado inicialmente.
 - Adicionar uma **função de compartilhamento** direta das rotas e dados, com opções claras de **copiar** ou **compartilhar** as informações via links ou redes sociais.
+
+
+# Aplicação do Território 6b - Metáforas de Interface 
+
+## Melhorias Propostas
+
+### 1. **Direções** - Melhorando a metáfora para **Rotas**
+
+#### **Problema Identificado:**
+A metáfora de "Direções" pode ser confusa para o usuário, não transmitindo claramente a funcionalidade de navegação.
+
+#### **Solução:**
+Alterar o termo **"Direções"** para **"Rotas"**, que é mais intuitivo e associado diretamente ao conceito de navegação, facilitando o entendimento do usuário sobre o que está sendo exibido ou solicitado.
+
+### 2. **Separação entre Alertas e Notícias**
+
+#### Problema Identificado:
+Atualmente, a aba de **Alertas** está implementada junto com a aba de **Notícias**. As bolinhas azuis indicam notícias, enquanto as bolinhas amarelas são usadas para alertas. Essa implementação pode gerar confusão, pois a metáfora de alertas deveria ser exclusiva para alertas, e não para notícias.
+
+#### Solução:
+A solução é separar as abas de **Alertas** e **Notícias**, de forma que o usuário possa identificar facilmente qual é a funcionalidade de cada uma. Para isso, deve-se garantir que a metáfora de alertas seja exclusiva para alertas e a de notícias seja utilizada apenas para notícias.
