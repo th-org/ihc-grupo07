@@ -9,7 +9,7 @@ Os métodos estatísticos desempenham um papel fundamental na análise de dados,
 
 ## Alpha de Cronbach
 
-Para obtenção dos dados, utilizamos do Excel, que estará acessível nesse link: [Dados do Excel]().
+Para obtenção dos dados, utilizamos do Excel, que estará acessível nesse link: [Dados do Excel](https://onedrive.live.com/personal/1e65f030fd022566/_layouts/15/Doc.aspx?sourcedoc=%7Bd645cfcd-357f-4f85-a66f-a1fdf425a500%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTY1ZjAzMGZkMDIyNTY2L0VjM1BSZFpfTllWUHBtLWhfZlFscFFBQnpudGVIa2pxVTQ2UmI5a2tuQ291d1E_ZT1UcTJZcGU&slrid=658475a1-50ac-7000-7e1e-658b3f6831b9&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTY1ZjAzMGZkMDIyNTY2L0VjM1BSZFpfTllWUHBtLWhfZlFscFFBQnpudGVIa2pxVTQ2UmI5a2tuQ291d1E_cnRpbWU9SGRWNVAtZ3YzVWc&CID=96491e77-3637-4e16-99a9-181fe0b3c3bd&_SRM=0:G:101).
 
 Para calcular o Alpha de Cronbach por meio do excel, seguimos os seguintes passos:  
 **1.** Importar as respostas do formulário para o Excel, onde cada coluna é uma pergunta (B a K) e cada linha é uma resposta (2 a 108)  
@@ -29,7 +29,7 @@ A correlação de Pearson mede a força e a direção do relacionamento linear e
 
 Aplicaremos a Correlação de Pearson para verificar a relação entre diferentes variáveis, como a satisfação do usuário e a facilidade de uso percebida da interface.
 
-Para obtenção dos dados, utilizamos o Excel, que estará acessível nesse link: [Dados do Excel]().  
+Para obtenção dos dados, utilizamos o Excel, que estará acessível nesse link: [Dados do Excel](https://onedrive.live.com/personal/1e65f030fd022566/_layouts/15/Doc.aspx?sourcedoc=%7Bd645cfcd-357f-4f85-a66f-a1fdf425a500%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTY1ZjAzMGZkMDIyNTY2L0VjM1BSZFpfTllWUHBtLWhfZlFscFFBQnpudGVIa2pxVTQ2UmI5a2tuQ291d1E_ZT1UcTJZcGU&slrid=658475a1-50ac-7000-7e1e-658b3f6831b9&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTY1ZjAzMGZkMDIyNTY2L0VjM1BSZFpfTllWUHBtLWhfZlFscFFBQnpudGVIa2pxVTQ2UmI5a2tuQ291d1E_cnRpbWU9SGRWNVAtZ3YzVWc&CID=96491e77-3637-4e16-99a9-181fe0b3c3bd&_SRM=0:G:101).  
 
 Para calcular a Correlação de Pearson por meio do Excel, seguimos os seguintes passos:  
 **1.** Importar as respostas do formulário para o Excel, onde cada coluna é uma pergunta (B a K) e cada linha é uma resposta (2 a 108).  
